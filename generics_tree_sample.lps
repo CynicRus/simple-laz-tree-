@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="generics_tree_sample.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="339"/>
+        <CursorPos X="18" Y="368"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="generics_tree.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="36"/>
+        <CursorPos X="84" Y="61"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="xml_tree_parser.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="434"/>
+        <CursorPos X="5" Y="544"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/local/share/fpcsrc/rtl/objpas/fgl.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="156"/>
+        <CursorPos X="63" Y="171"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:/lazarus/fpc/3.2.2/source/rtl/objpas/fgl.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="437"/>
+        <CursorPos X="13" Y="511"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:/lazarus/fpc/3.2.2/source/rtl/inc/objpash.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="198"/>
+        <CursorPos X="21" Y="215"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:/lazarus/fpc/3.2.2/source/rtl/win/syswinh.inc"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="2" Y="17"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:/lazarus/fpc/3.2.2/source/rtl/inc/systemh.inc"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="312"/>
+        <CursorPos X="3" Y="329"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="xml_tree_parser.pas"/>
+        <Caret Line="312" TopLine="291"/>
+      </Position>
+      <Position>
+        <Filename Value="xml_tree_parser.pas"/>
+        <Caret Line="315" TopLine="291"/>
+      </Position>
+      <Position>
+        <Filename Value="xml_tree_parser.pas"/>
+        <Caret Line="307" TopLine="291"/>
+      </Position>
+      <Position>
+        <Filename Value="xml_tree_parser.pas"/>
+        <Caret Line="308" TopLine="291"/>
+      </Position>
+      <Position>
+        <Filename Value="xml_tree_parser.pas"/>
+        <Caret Line="307" Column="22" TopLine="291"/>
+      </Position>
+      <Position>
+        <Filename Value="generics_tree.pas"/>
+        <Caret Line="430" Column="32" TopLine="412"/>
+      </Position>
+      <Position>
+        <Filename Value="xml_tree_parser.pas"/>
+        <Caret Line="309" Column="49" TopLine="292"/>
+      </Position>
+      <Position>
+        <Filename Value="xml_tree_parser.pas"/>
+        <Caret Line="214" Column="23" TopLine="196"/>
+      </Position>
+      <Position>
+        <Filename Value="xml_tree_parser.pas"/>
+        <Caret Line="379" Column="5" TopLine="346"/>
+      </Position>
+      <Position>
+        <Filename Value="xml_tree_parser.pas"/>
+        <Caret Line="8" Column="30"/>
+      </Position>
+      <Position>
+        <Filename Value="xml_tree_parser.pas"/>
+        <Caret Line="251" Column="25" TopLine="234"/>
+      </Position>
+      <Position>
+        <Filename Value="xml_tree_parser.pas"/>
+        <Caret Line="280" Column="44" TopLine="263"/>
+      </Position>
+      <Position>
+        <Filename Value="xml_tree_parser.pas"/>
+        <Caret Line="358" Column="45" TopLine="341"/>
+      </Position>
+      <Position>
+        <Filename Value="xml_tree_parser.pas"/>
+        <Caret Line="436" Column="5" TopLine="403"/>
+      </Position>
+      <Position>
+        <Filename Value="generics_tree.pas"/>
+        <Caret Line="14" Column="23"/>
+      </Position>
+      <Position>
+        <Filename Value="generics_tree.pas"/>
+        <Caret Line="398" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="generics_tree.pas"/>
+        <Caret Line="47" Column="42" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="generics_tree.pas"/>
+        <Caret Line="14" Column="9" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="generics_tree.pas"/>
+        <Caret Line="15" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="generics_tree_sample.lpr"/>
+        <Caret Line="295" Column="36" TopLine="379"/>
+      </Position>
+      <Position>
+        <Filename Value="xml_tree_parser.pas"/>
+        <Caret Line="493" Column="42" TopLine="470"/>
+      </Position>
+      <Position>
+        <Filename Value="xml_tree_parser.pas"/>
+        <Caret Line="486" Column="41" TopLine="470"/>
+      </Position>
+      <Position>
+        <Filename Value="xml_tree_parser.pas"/>
+        <Caret Line="36" Column="57" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="xml_tree_parser.pas"/>
+        <Caret Line="90" Column="46" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="xml_tree_parser.pas"/>
+        <Caret Line="24" Column="41" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="C:/lazarus/fpc/3.2.2/source/rtl/inc/systemh.inc"/>
+        <Caret Line="329" Column="3" TopLine="312"/>
+      </Position>
+      <Position>
+        <Filename Value="xml_tree_parser.pas"/>
+        <Caret Line="36" Column="32" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="xml_tree_parser.pas"/>
+        <Caret Line="41" Column="7" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="generics_tree_sample.lpr"/>
+        <Caret Line="327" Column="5" TopLine="294"/>
+      </Position>
+      <Position>
+        <Filename Value="generics_tree_sample.lpr"/>
+        <Caret Line="339" Column="21" TopLine="314"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
